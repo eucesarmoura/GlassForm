@@ -9,7 +9,7 @@
 Projeto de estudo em *Front End*, o qual englobou o desenvolvimento de uma tela de login com efeitos visuais.
 
 <center><div>
-<span><img src="src/screenshot-tela.png" alt="Texto Alternativo" width="220"/></span>
-<span><img src="src/screenshot-login.png" alt="Texto Alternativo" width="100"/></span>
+<span><img src="src/screenshot-tela.png" alt="Texto Alternativo" width="440"/></span>
+<span><img src="src/screenshot-login.png" alt="Texto Alternativo" width="200"/></span>
 </div>
 <br></center>
