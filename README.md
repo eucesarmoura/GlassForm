@@ -15,7 +15,7 @@ Projeto de estudo em *Front End*, o qual englobou o desenvolvimento de uma tela 
 (3) Aplicação de efeito neon visual <br>
 
 <center><div>
-<span><img src="src/screenshot-tela.png" alt="Texto Alternativo" width="440"/></span>
-<span><img src="src/screenshot-login.png" alt="Texto Alternativo" width="200"/></span>
+<span><img src="source/screenshot-tela.png" alt="Texto Alternativo" width="440"/></span>
+<span><img src="source/screenshot-login.png" alt="Texto Alternativo" width="200"/></span>
 </div>
 <br></center>
